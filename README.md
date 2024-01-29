@@ -1,4 +1,4 @@
-# Sample: Authentication Customization
+# Sample: Authentication Customization with Azure AD B2C on ABP v8.0
 
 This sample solution demonstrates how to make some authentication customizations, and it provides an example of AZURE AD B2C WITH ABP version 8.0. See the related "how to" guides implemented with the original version solution, which was made for Azure AAD:
 
